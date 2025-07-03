@@ -18,6 +18,31 @@
 - Aqui no GitHub [@SystemBoys](https://github.com/systemboys)  
 - Em breve no [systemboys.com.br](http://systemboys.com.br)
 
+### 🛠️ Tecnologias & Ferramentas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+
+### 🏆 Badges
+
+![Profile Views](https://komarev.com/ghpvc/?username=systemboys&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub User's stars](https://img.shields.io/github/stars/systemboys?affiliations=OWNER%2CCOLLABORATOR&style=flat-square)
+![Repos Badge](https://badgen.net/github/repos/systemboys)
+
+### 🌐 Links Sociais
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/marcos-rocha-systemboys/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/systemboys)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/systemboys/)
+[![Website](https://img.shields.io/badge/-SystemBoys.com.br-000000?logo=Google-Chrome&logoColor=white&style=flat-square)](http://systemboys.com.br)
+
 ---
 
 > *SystemBoys é mais que um nome. É a memória viva de um garoto que acreditava que tudo era possível, desde que tivesse coragem para aprender.*
