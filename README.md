@@ -18,6 +18,8 @@
 - Aqui no GitHub [@SystemBoys](https://github.com/systemboys)  
 - Em breve no [systemboys.com.br](http://systemboys.com.br)
 
+---
+
 ### 🛠️ Tecnologias & Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
@@ -30,11 +32,15 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 
+---
+
 ### 🏆 Badges
 
 ![Profile Views](https://komarev.com/ghpvc/?username=systemboys&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub User's stars](https://img.shields.io/github/stars/systemboys?affiliations=OWNER%2CCOLLABORATOR&style=flat-square)
 ![Repos Badge](https://badgen.net/github/repos/systemboys)
+
+---
 
 ### 🌐 Links Sociais
 
@@ -46,18 +52,3 @@
 ---
 
 > *SystemBoys é mais que um nome. É a memória viva de um garoto que acreditava que tudo era possível, desde que tivesse coragem para aprender.*
-
-<!--
-**systemboys/SystemBoys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
