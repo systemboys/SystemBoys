@@ -1,3 +1,68 @@
+# 👨‍💻 Marcos Aurélio Rocha da Silva
+
+Desenvolvedor Pleno | Engenharia de Software (5º período) | 20+ anos de experiência prática em programação
+
+---
+
+## 🧭 Sobre mim
+
+Sou apaixonado por tecnologia desde 2001, quando comecei a programar de forma autodidata, escrevendo códigos em HTML, CSS e JavaScript. Com o tempo, expandi meus conhecimentos para PHP e MySQL, utilizando tutoriais e CDs da época, como os do instrutor Fábio Godoi.  
+
+Mesmo sem apoio formal no início, desenvolvi sites, sistemas e automações, e atuei fortemente como técnico de informática e empreendedor. Em 2010, concluí uma graduação em Pedagogia — a única opção superior na minha cidade na época — mas a paixão por desenvolvimento sempre falou mais alto.
+
+Atualmente curso **Engenharia de Software na faculdade Anhanguera (5º período)** e lidero projetos reais, como um sistema SaaS próprio em **Node.js + React + Prisma**, além de empreender na **GTi - GLOBAL TEC Informática**, empresa que fundei em 2007.
+
+---
+
+## 💼 Nível Profissional
+
+Atualmente atuo como **Desenvolvedor Pleno em transição para Sênior**, com forte domínio técnico, pensamento de arquitetura, experiência em liderança de projeto e visão de produto.
+
+| Categoria        | Status                                  |
+|------------------|------------------------------------------|
+| 🧠 Experiência   | 20+ anos de prática com código           |
+| 🎓 Formação      | Eng. Software (em andamento) + Pedagogia |
+| 🛠️ Tecnologias   | Node.js, React.js, PHP, MySQL, TypeScript, Prisma, Docker |
+| 📚 Habilidades   | Autodidata, Arquitetura de Software, API REST, Documentação |
+| 🌐 Perfil Git    | github.com/SEU_USUARIO_AQUI             |
+| 💬 Contato       | SEU EMAIL OU LINKEDIN AQUI               |
+
+---
+
+## 📈 Objetivo Profissional
+
+Continuar desenvolvendo soluções web escaláveis e úteis, com foco em qualidade, performance e usabilidade. Busco colaborar em projetos que valorizem engenharia de software de verdade, com foco em boas práticas, autonomia e impacto real.
+
+---
+
+## 🔧 Tecnologias que domino
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+---
+
+## 🧩 Repositórios em Destaque
+
+- [🔐 Sistema de Autenticação com JWT e Prisma](#)
+- [🌎 Sistema de Loteamento com mapas em React + QGIS](#)
+- [🛠️ Sistema GTi de Assistência Técnica (em desenvolvimento)](#)
+
+---
+
+## ✨ Frase que me define
+> “Não sou formado apenas por diplomas, sou formado por erros, projetos, cafés e muita curiosidade.” 🚀
+
+---
+
 ## 👋 Olá, sou Marcos Aurélio!
 
 ### ✨ SystemBoys ✨
