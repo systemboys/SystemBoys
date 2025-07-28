@@ -25,7 +25,7 @@ Atualmente atuo como **Desenvolvedor Pleno em transição para Sênior**, com fo
 | 🛠️ Tecnologias   | Node.js, React.js, PHP, MySQL, TypeScript, Prisma, Docker, AWS |
 | 📚 Habilidades   | Autodidata, Arquitetura de Software, API REST, Documentação |
 | 🌐 Perfil Git    | github.com/systemboys             |
-| 💬 Contato       | systemboys@hotmail.com | https://www.linkedin.com/in/marcos-aur%C3%A9lio-rocha-da-silva-69a22699/ |
+| 💬 Contato       | systemboys@hotmail.com | [Meu LinkedIn](https://www.linkedin.com/in/marcos-aur%C3%A9lio-rocha-da-silva-69a22699/ "Meu perfil no LinkedIn") |
 
 ---
 
