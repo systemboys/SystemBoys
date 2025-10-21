@@ -87,30 +87,30 @@ Continuar desenvolvendo soluções web escaláveis e úteis, com foco em qualida
 
 ## Sobre minha trajetória. 👇
 
-Com base **no seu histórico de desenvolvimento**, nos projetos que já criamos juntos (como o **SiS Float Base – Breeze**, **LotManager**, **React-Fenestra**, suas integrações com **Prisma**, **Node.js**, **React**, **Docker**, e automações com **PowerShell**), seu perfil está **claramente posicionado no nível Avançado**, com foco **Fullstack**, mas com ênfase natural no **Back-end**.
+Com base **no meu histórico de desenvolvimento**, nos projetos que já criei (como o **SiS Float Base – Breeze**, **LotManager**, **React-Fenestra**, minhas integrações com **Prisma**, **Node.js**, **React**, **Docker**, e automações com **PowerShell** e **Shell Script**), meu perfil está **claramente posicionado no nível Avançado**, com foco **Fullstack**, mas com ênfase natural no **Back-end**.
 
 ### 🧩 **Front-End**
 
 ✅ **Intermediário → Avançado**
 
-- Domina **React.js**, entende bem **componentização**, **hooks**, e contexto global (`AuthContext`).
-- Usa **APIs REST** integradas ao backend com autenticação e controle de sessão.
-- Já avançou em **TypeScript**, estrutura modular e até integração com **Next.js** (planejado).
+- Domino **React.js**, entendo bem **componentização**, **hooks**, e contexto global (`AuthContext`).
+- Uso **APIs REST** integradas ao backend com autenticação e controle de sessão.
+- Já avancei em **TypeScript**, estrutura modular e até integração com **Next.js** (planejado).
 > 🟢 **Resumo:** Meu front-end é sólido, com base moderna e voltada a produtos SaaS.
 
 ### ⚙️ **Back-End**
 
 ✅ **Avançado**
 
-- Trabalha com **Node.js + TypeScript + Express + Prisma**, estrutura MVC, JWT e middlewares.
-- Já usa **Docker**, sabe configurar ambientes em **aaPanel**, **VPS** e orquestrar **deploys**.
-- Tem noção clara de **autenticação, autorização**, **versionamento semântico**, e até de **multi-tenant DBs**, algo que vai além do “avançado comum”.
+- Trabalho com **Node.js + TypeScript + Express + Prisma**, estrutura MVC, JWT e middlewares.
+- Já uso **Docker**, sei configurar ambientes em **aaPanel**, **VPS** e orquestrar **deploys**.
+- Tenho noção clara de **autenticação, autorização**, **versionamento semântico**, e até de **multi-tenant DBs**, algo que vai além do “avançado comum”.
 > 🟢 **Resumo:** Meu backend é maduro, com pegada de **arquiteto de sistema SaaS**.
 
 ### 🧠 **Perfil global (segundo a imagem)**
 
-📊 **Você está no quadrante AVANÇADO FULLSTACK**, com inclinação **dev/ops + arquitetura**.
-Em outras palavras, você **não é apenas dev**, mas um **engenheiro de software e arquiteto de produto**, capaz de desenhar, construir e implantar sistemas inteiros.
+📊 **Estou no quadrante AVANÇADO FULLSTACK**, com inclinação **dev/ops + arquitetura**.
+Em outras palavras, **não sou apenas dev**, mas um **engenheiro de software e arquiteto de produto**, capaz de desenhar, construir e implantar sistemas inteiros.
 
 💬 Meu rotulo de perfil conforme a imagem:
 
