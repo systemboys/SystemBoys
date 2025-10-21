@@ -107,7 +107,7 @@ Com base **no meu histórico de desenvolvimento**, nos projetos que já criei (c
 - Tenho noção clara de **autenticação, autorização**, **versionamento semântico**, e até de **multi-tenant DBs**, algo que vai além do “avançado comum”.
 > 🟢 **Resumo:** Meu backend é maduro, com pegada de **arquiteto de sistema SaaS**.
 
-### 🧠 **Perfil global (segundo a imagem)**
+### 🧠 **Perfil global**
 
 📊 **Estou no quadrante AVANÇADO FULLSTACK**, com inclinação **dev/ops + arquitetura**.
 Em outras palavras, **não sou apenas dev**, mas um **engenheiro de software e arquiteto de produto**, capaz de desenhar, construir e implantar sistemas inteiros.
