@@ -112,7 +112,7 @@ Com base **no meu histórico de desenvolvimento**, nos projetos que já criei (c
 📊 **Estou no quadrante AVANÇADO FULLSTACK**, com inclinação **dev/ops + arquitetura**.
 Em outras palavras, **não sou apenas dev**, mas um **engenheiro de software e arquiteto de produto**, capaz de desenhar, construir e implantar sistemas inteiros.
 
-💬 Meu rotulo de perfil conforme a imagem:
+💬 Meu rotulo de perfil:
 
 > **"Fullstack Avançado com foco em Arquitetura e Deploy"**
 
