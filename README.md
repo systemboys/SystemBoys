@@ -138,7 +138,7 @@ Embora eu continue trabalhando com Windows em outros computadores (quando necess
 
 ## 💼 Minha Trajetória Técnica
 
-Com base **no meu histórico de desenvolvimento**, nos projetos que já criei (como o **SiS Float Base – Breeze**, **LotManager**, **React-Fenestra**, minhas integrações com **Prisma**, **Node.js**, **React**, **Docker**, e automações com **PowerShell** e **Shell Script**), meu perfil está **claramente posicionado no nível Avançado**, com foco **Fullstack**, mas com ênfase natural no **Back-end**.
+Com base **no meu histórico de desenvolvimento**, nos projetos que já criei (como o **SiS Float Base – Breeze**, **LotManager**, projetos com **React-Fenestra**, minhas integrações com **Prisma**, **Node.js**, **React**, **Docker**, e automações com **PowerShell** e **Shell Script**), meu perfil está **claramente posicionado no nível Avançado**, com foco **Fullstack**, mas com ênfase natural no **Back-end**.
 
 ### 🧩 **Front-End**
 
