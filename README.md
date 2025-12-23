@@ -126,7 +126,7 @@ Em **2010**, retornei a Mirador e comecei a usar o **Ubuntu Linux** por alguns a
 
 Posteriormente, mudei para o **Debian Linux**, que continua sendo minha distribuição de escolha até hoje. Para mim, o GNU/Linux não é apenas um sistema operacional; é um **kernel**, uma filosofia, uma forma de pensar sobre tecnologia.
 
-### 🚀 O Desenvolvedor de Hoje (2010-presente)
+### 🚀 O Desenvolvedor de Hoje (de 2010 ao presente)
 
 Hoje, sou um programador que cria soluções baseadas na web utilizando o Linux como meu ambiente de desenvolvimento principal. Minha jornada passou de HTML e JavaScript em CDs-ROM para sistemas SaaS complexos com **Node.js**, **React**, **TypeScript**, **Prisma**, **Docker** e **AWS**.
 
