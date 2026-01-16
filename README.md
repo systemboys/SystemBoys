@@ -1,6 +1,6 @@
 # 👨‍💻 Marcos Aurélio Rocha da Silva
 
-Desenvolvedor Pleno | Engenharia de Software (5º período) | 20+ anos de experiência prática em programação
+Desenvolvedor Pleno | Engenharia de Software (6º período) | 20+ anos de experiência prática em informática e envolvendo programação.
 
 ---
 
@@ -10,7 +10,7 @@ Sou apaixonado por tecnologia desde 2001, quando comecei a programar de forma au
 
 Mesmo sem apoio formal no início, desenvolvi sites, sistemas e automações, e atuei fortemente como técnico de informática e empreendedor. Em 2010, concluí uma graduação em Pedagogia — a única opção superior na minha cidade na época — mas a paixão por desenvolvimento sempre falou mais alto.
 
-Atualmente curso **Engenharia de Software na faculdade Anhanguera (5º período)** e lidero projetos reais, como um sistema SaaS próprio em **Node.js + React + Prisma**, além de empreender na **GTi - GLOBAL TEC Informática**, empresa que fundei em 2007.
+Atualmente curso **Engenharia de Software na faculdade Anhanguera (6º período)** e lidero projetos reais, como um sistema SaaS próprio em **Node.js + React + Prisma**, além de empreender na **GTi - GLOBAL TEC Informática**, empresa que fundei em 2007.
 
 ---
 
@@ -154,7 +154,7 @@ Com base **no meu histórico de desenvolvimento**, nos projetos que já criei (c
 ✅ **Avançado**
 
 - Trabalho com **Node.js + TypeScript + Express + Prisma**, estrutura MVC, JWT e middlewares.
-- Já uso **Docker**, sei configurar ambientes em **aaPanel**, **VPS** e orquestrar **deploys**.
+- Uso **Docker**, sei configurar ambientes em **aaPanel**, **VPS** e orquestrar **deploys**.
 - Tenho noção clara de **autenticação, autorização**, **versionamento semântico**, e até de **multi-tenant DBs**, algo que vai além do "avançado comum".
 > 🟢 **Resumo:** Meu backend é maduro, com pegada de **arquiteto de sistema SaaS**.
 
@@ -206,7 +206,7 @@ Em outras palavras, **não sou apenas dev**, mas um **engenheiro de software e a
 
 **Trabalhando em**: Projetos pessoais de programação, sistemas SaaS e loteamentos.
 
-**Aprendendo**: Sempre algo novo em Node.js, React, TypeScript, Engenharia de Software e arquitetura de sistemas.
+**Aprendendo**: Sempre algo novo em Node.js, React, TypeScript, Engenharia de Software, arquitetura de sistemas e Inteligências Artificiais.
 
 **Curiosidade**: SystemBoys.com.br finalmente é meu, após anos esperando o domínio ser liberado.
 
