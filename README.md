@@ -12,16 +12,19 @@ Mesmo sem apoio formal no início, desenvolvi sites, sistemas e automações, e 
 
 Atualmente curso **Engenharia de Software na faculdade Anhanguera (6º período)** e lidero projetos reais, como um sistema SaaS próprio em **Node.js + React + Prisma**, além de empreender na **GTi - GLOBAL TEC Informática**, empresa que fundei em 2007.
 
+**Especialização:** atuo com **foco sólido em produtos SaaS multi-tenant** — desenho e implementação de isolamento de dados por tenant, governança multi-empresa, APIs seguras e modelagem alinhada a escalabilidade operacional.
+
 ---
 
 ## 💼 Nível Profissional
 
-Atualmente atuo como **Desenvolvedor Pleno em transição para Sênior**, com forte domínio técnico, pensamento de arquitetura, experiência em liderança de projeto e visão de produto.
+Atualmente atuo como **Desenvolvedor Pleno em transição para Sênior**, com forte domínio técnico, pensamento de arquitetura, experiência em liderança de projeto e visão de produto. No ecossistema **SaaS (multi-tenant)**, posiciono-me como **especialista**: domínio de padrões de isolamento lógico, consistência entre camadas (banco, backend e frontend) e entrega de software como serviço com múltiplos clientes na mesma base de código.
 
 | Categoria        | Status                                  |
 |------------------|------------------------------------------|
 | 🧠 Experiência   | 20+ anos de prática com código           |
 | 🎓 Formação      | Eng. Software (em andamento) + Pedagogia |
+| 🏢 Especialização | **SaaS multi-tenant** — arquitetura, isolamento por tenant, segurança e modelagem de dados para produtos escaláveis |
 | 🛠️ Tecnologias   | Node.js, React.js, PHP, MySQL, TypeScript, Prisma, Docker, AWS |
 | 📚 Habilidades   | Autodidata, Arquitetura de Software, API REST, Documentação |
 | 🌐 Perfil Git    | github.com/systemboys             |
@@ -134,6 +137,12 @@ Trabalho com arquitetura de software, APIs REST, autenticação JWT, multi-tenan
 
 Embora eu continue trabalhando com Windows em outros computadores (quando necessário para clientes), meu sistema operacional pessoal é e sempre será o **Debian Linux** no mundo do GNU/Linux.
 
+### 🏗️ Especialista em SaaS multi-tenant (trajetória e atuação)
+
+Ao longo da minha carreira, a evolução natural foi sair de sites e sistemas isolados para **plataformas SaaS**: um único produto, múltiplos clientes (tenants), com **separação clara de dados e permissões** por empresa ou contexto contratual. Essa linha de trabalho exige domínio de **modelagem relacional**, **APIs consistentes**, **autenticação e autorização** bem definidas, e decisões conscientes sobre onde e como aplicar o isolamento — do banco de dados à experiência do usuário.
+
+Hoje consolido essa especialização em projetos reais — incluindo o ecossistema **SiS Float Base (Breeze)** e outros sistemas em **Node.js, React, TypeScript e Prisma** — com entrega contínua, documentação de arquitetura e mentalidade de **produto**: o SaaS não é apenas “várias empresas no mesmo servidor”, é **governança, previsibilidade e segurança** em escala.
+
 ---
 
 ## 💼 Minha Trajetória Técnica
@@ -155,8 +164,8 @@ Com base **no meu histórico de desenvolvimento**, nos projetos que já criei (c
 
 - Trabalho com **Node.js + TypeScript + Express + Prisma**, estrutura MVC, JWT e middlewares.
 - Uso **Docker**, sei configurar ambientes em **aaPanel**, **VPS** e orquestrar **deploys**.
-- Tenho noção clara de **autenticação, autorização**, **versionamento semântico**, e até de **multi-tenant DBs**, algo que vai além do "avançado comum".
-> 🟢 **Resumo:** Meu backend é maduro, com pegada de **arquiteto de sistema SaaS**.
+- Tenho noção clara de **autenticação, autorização**, **versionamento semântico**, e domínio aplicado de **multi-tenant** em bases e serviços — desenho e manutenção de **SaaS com isolamento por tenant**, alinhado a boas práticas de engenharia.
+> 🟢 **Resumo:** Meu backend é maduro, com pegada de **arquiteto de sistema SaaS multi-tenant**.
 
 ### 🧠 **Perfil global**
 
