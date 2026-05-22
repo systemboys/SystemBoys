@@ -67,6 +67,16 @@ Continuar desenvolvendo soluções web escaláveis e úteis, com foco em qualida
 
 ---
 
+## 💭 Pensamento
+
+> "Vejo a inteligência artificial como uma nova fase da programação, não como o fim dela. Quem começou agora já encontra ferramentas capazes de escrever código, sugerir soluções e acelerar entregas, mas eu carrego algo que nenhuma ferramenta substitui: a experiência de ter programado no braço, linha por linha, errando, depurando, entendendo o porquê das coisas e aprendendo a pensar como programador antes de pedir ajuda para uma máquina.
+>
+> Depois de mais de 20 anos nessa caminhada, percebo que a IA potencializa muito mais quem já viveu a prática real do código. Ela soma velocidade à experiência, mas não entrega automaticamente maturidade, visão de arquitetura, leitura de problema, noção de manutenção ou responsabilidade técnica. Os novos programadores talvez não passem pela mesma jornada de digitar tudo na unha, estudar código-fonte em arquivo, quebrar a cabeça com erro simples e descobrir soluções pela insistência. Isso é uma pena, porque essa vivência forma uma base que não aparece em certificado nem em prompt.
+>
+> Hoje eu me vejo em uma posição privilegiada: tenho a bagagem de quem aprendeu construindo, consertando, testando e errando durante anos, e agora uso a inteligência artificial como uma extensão dessa experiência. Não é apenas IA programando por mim; sou eu, com minha história, minha lógica e minha visão técnica, usando IA para ir mais longe. Essa combinação entre experiência de código no braço e inteligência artificial é uma vantagem real desta nova era."
+
+---
+
 ## 👋 Olá, sou Marcos Aurélio!
 
 ### ✨ SystemBoys ✨
