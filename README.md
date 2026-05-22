@@ -75,6 +75,12 @@ Continuar desenvolvendo soluções web escaláveis e úteis, com foco em qualida
 >
 > Hoje eu me vejo em uma posição privilegiada: tenho a bagagem de quem aprendeu construindo, consertando, testando e errando durante anos, e agora uso a inteligência artificial como uma extensão dessa experiência. Não é apenas IA programando por mim; sou eu, com minha história, minha lógica e minha visão técnica, usando IA para ir mais longe. Essa combinação entre experiência de código no braço e inteligência artificial é uma vantagem real desta nova era."
 
+> "Mesmo vivendo em uma época em que existe inteligência artificial para quase tudo, continuo sendo um defensor da aprendizagem humana. Para mim, IA é ferramenta de reforço, pesquisa, comparação de ideias e resumo de conteúdos, nunca um meio de terceirizar o entendimento, responder atividades sem aprender ou passar por cima do processo.
+>
+> Sou das antigas e valorizo muito o conhecimento construído de verdade. Com mais de 20 anos de experiência em informática e programação, aprendi que tecnologia boa é aquela que amplia a capacidade humana, não aquela que substitui a responsabilidade de pensar. Por isso, quando uso IA, uso como apoio: para estudar melhor, pesquisar com mais profundidade, revisar conceitos, organizar ideias e acelerar partes do trabalho sem abrir mão do aprendizado.
+>
+> Tenho procurado ensinar colegas a usarem essas ferramentas com sabedoria, e não como trapaça. Alguns podem chamar isso de pensamento careta ou ultrapassado, mas eu vejo o contrário: ultrapassado será quem usar IA apenas para entregar tarefas sem compreender o que está fazendo. O futuro não pertence a quem copia respostas; pertence a quem aprende de verdade e usa a inteligência artificial para evoluir com mais consciência."
+
 ---
 
 ## 👋 Olá, sou Marcos Aurélio!
