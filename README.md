@@ -38,6 +38,61 @@ Continuar desenvolvendo soluções web escaláveis e úteis, com foco em qualida
 
 ---
 
+## 🧠 Engenharia de Software e Inteligência Artificial
+
+Atuo no desenvolvimento de sistemas, plataformas SaaS, automações e soluções integradas com Inteligência Artificial. Meu trabalho envolve transformar necessidades reais de empresas em aplicações funcionais, escaláveis e preparadas para automatizar processos, organizar informações e melhorar a tomada de decisões.
+
+Projeto, desenvolvo, integro e mantenho sistemas completos, trabalhando tanto no frontend quanto no backend, além da infraestrutura necessária para colocar aplicações em funcionamento. Minha atuação combina **Engenharia de Software, Inteligência Artificial, automação, infraestrutura e visão de negócio**.
+
+### 📌 O que eu faço
+
+- Desenvolvimento de sistemas web e plataformas SaaS;
+- Criação de APIs, regras de negócio e integrações entre sistemas;
+- Desenvolvimento de interfaces responsivas, dashboards e painéis administrativos;
+- Modelagem, organização e manutenção de bancos de dados;
+- Implementação de sistemas multi-tenant para atender várias empresas em uma única plataforma;
+- Integração de Inteligência Artificial em aplicações, processos e canais de atendimento;
+- Criação e configuração de agentes inteligentes para atendimento, suporte e automação;
+- Desenvolvimento de chatbots integrados ao WhatsApp e a outros serviços;
+- Automação de fluxos empresariais utilizando ferramentas como n8n;
+- Integração com APIs externas, webhooks, sistemas de mensagens e serviços em nuvem;
+- Processamento de textos, imagens, documentos e áudios por meio de soluções de IA;
+- Desenvolvimento de recursos para análise de dados, geração de respostas e apoio à tomada de decisões;
+- Implantação, gerenciamento e manutenção de aplicações em servidores Linux;
+- Criação e gerenciamento de ambientes com Docker e Docker Compose;
+- Configuração de domínios, certificados SSL, proxies reversos, bancos de dados e serviços em produção;
+- Diagnóstico e resolução de problemas em sistemas, redes, servidores e aplicações.
+
+### 🤖 Inteligência Artificial aplicada
+
+Minha atuação com Inteligência Artificial está diretamente relacionada à aplicação prática da tecnologia em sistemas reais. Desenvolvo soluções capazes de atender clientes automaticamente, interpretar mensagens e solicitações, analisar imagens, documentos e áudios, transcrever mensagens de voz, gerar respostas contextualizadas, consultar informações em bancos de dados e executar processos automatizados.
+
+Também trabalho na definição de instruções, contextos e regras para agentes de IA, buscando respostas mais naturais, seguras e alinhadas ao funcionamento de cada negócio. Para mim, IA não é apenas recurso técnico: é uma nova camada de produtividade, integração e inteligência aplicada aos processos.
+
+### 🏢 SaaS, automação e infraestrutura
+
+Tenho experiência no desenvolvimento de sistemas SaaS modulares, capazes de atender diferentes empresas, usuários e segmentos de negócio, com separação de dados por empresa, controle de usuários, grupos e permissões, planos, configurações, dashboards, indicadores, financeiro, vendas, relatórios e integrações com atendimento automatizado.
+
+Desenvolvo automações para conectar sistemas, APIs, bancos de dados e canais de comunicação, incluindo fluxos com n8n, WhatsApp, Evolution API, webhooks, envio automático de mensagens, pausa e retomada de agentes, consulta e atualização de dados, processamento de imagens e áudios, notificações e integrações com planilhas e serviços externos.
+
+Também atuo na infraestrutura necessária para executar esses sistemas: Linux, especialmente Debian, servidores VPS, Docker, Docker Compose, aaPanel, Apache, proxy reverso, Cloudflare, certificados SSL, domínios, subdomínios, bancos de dados em produção, logs, backups, restauração de ambientes e monitoramento de serviços.
+
+### 🌐 Redes e telecomunicações
+
+Minha experiência também inclui tecnologia da informação, redes de computadores e infraestrutura de telecomunicações, com conhecimento em redes locais, fibra óptica, CTOs, ONUs, OLTs, Mikrotik, RouterOS, WireGuard, rotas de rede, monitoramento de conexões, mapeamento de infraestrutura e diagnóstico de falhas.
+
+Busco integrar sistemas de gestão com equipamentos de rede para permitir monitoramento, visualização e análise de informações em tempo real.
+
+### 🧩 Minha abordagem
+
+Uma parte importante do meu trabalho consiste em analisar problemas técnicos e encontrar soluções viáveis sem comprometer o que já está funcionando. Minha abordagem envolve entender o cenário atual, identificar dependências e pontos críticos, investigar a causa do problema, planejar alterações com o menor impacto possível, implementar, validar, documentar e preparar formas de recuperação em caso de falhas.
+
+Não utilizo a tecnologia apenas para criar códigos ou funcionalidades isoladas. Busco entender o problema, estruturar o processo e desenvolver soluções capazes de gerar produtividade, organização, redução de custos e novas oportunidades comerciais.
+
+Meu objetivo é construir sistemas inteligentes, úteis e escaláveis, transformando conhecimento técnico em produtos e serviços que possam resolver problemas reais e gerar valor para empresas e usuários.
+
+---
+
 ## 🔧 Tecnologias que domino
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -80,6 +135,12 @@ Continuar desenvolvendo soluções web escaláveis e úteis, com foco em qualida
 > Sou das antigas e valorizo muito o conhecimento construído de verdade. Com mais de 20 anos de experiência em informática e programação, aprendi que tecnologia boa é aquela que amplia a capacidade humana, não aquela que substitui a responsabilidade de pensar. Por isso, quando uso IA, uso como apoio: para estudar melhor, pesquisar com mais profundidade, revisar conceitos, organizar ideias e acelerar partes do trabalho sem abrir mão do aprendizado.
 >
 > Tenho procurado ensinar colegas a usarem essas ferramentas com sabedoria, e não como trapaça. Alguns podem chamar isso de pensamento careta ou ultrapassado, mas eu vejo o contrário: ultrapassado será quem usar IA apenas para entregar tarefas sem compreender o que está fazendo. O futuro não pertence a quem copia respostas; pertence a quem aprende de verdade e usa a inteligência artificial para evoluir com mais consciência."
+
+> "Também acredito que agradecer a uma inteligência artificial não precisa ser visto como ingenuidade. Sei que uma IA não tem consciência, sentimentos ou vontade própria, mas a cordialidade faz parte de quem eu sou como pessoa. Quando agradeço, não estou apenas falando com uma ferramenta; também reconheço o trabalho humano por trás dela, dos desenvolvedores, pesquisadores e engenheiros que tornaram essa tecnologia possível.
+>
+> Depois de tantos anos enfrentando sozinho as dificuldades da programação, da infraestrutura, dos erros obscuros, da documentação escassa e das longas noites tentando resolver problemas técnicos, vejo a inteligência artificial como uma das tecnologias mais fascinantes que já acompanhei. Ela facilitou muito a forma como estudo, projeto, automatizo e desenvolvo soluções.
+>
+> Hoje continuo sendo engenheiro e arquiteto do que preciso construir. A IA me ajuda a programar, revisar, pesquisar e acelerar entregas, mas a direção, a responsabilidade, a visão técnica e a decisão continuam sendo humanas. Por isso, quando uma IA me ajuda bem, eu agradeço. É uma forma de respeito à tecnologia, ao processo e às pessoas que fizeram essa nova fase existir."
 
 ---
 
